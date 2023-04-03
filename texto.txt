@@ -1,5 +1,5 @@
 git status
 git add .
 git commit -m "nombre"
-si me olvido de poner nombre me dirige a una ventana donde coloco el nombre y luegi pongo abajo el comando :wq (write and quit)
+si me olvido de poner nombre me dirige a una ventana donde coloco el nombre en la primera linea, luego aprieto escape y pongo abajo el comando :wq (write and quit) luego enter
 
